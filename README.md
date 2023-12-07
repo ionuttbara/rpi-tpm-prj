@@ -1,6 +1,3 @@
-# rpi-tpm-prj
-
-
 # This is a project which implements 'kinda' secure boot support for Raspberry Pi 3 and 4 using U-Boot.
 
 # Instructions
